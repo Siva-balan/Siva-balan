@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siva-balan
 - 👀 I’m interested in programming, trading and managment
 - 🌱 I’m currently learning CSE spl in IOT
-- 💞️ I’m looking to collaborate on web dev, sde projects
+- 💞️ I’m looking to collaborate on Web development, SDE and IoT projects
 - 📫 How to reach me sivabalan.arun@gmail.com
 
 <!---
